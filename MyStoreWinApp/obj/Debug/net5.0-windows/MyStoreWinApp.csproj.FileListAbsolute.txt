@@ -1,0 +1,63 @@
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberDetails.resources
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberDetails.resources
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\refint\MyStoreWinApp.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\appsettings.json
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\2022\ASM2022\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataGridViewAutoFilter.dll

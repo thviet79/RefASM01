@@ -1,0 +1,30 @@
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\2022\ASM2022\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\2022\ASM2022\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\2022\ASM2022\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\2022\ASM2022\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\2022\ASM2022\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\2022\ASM2022\Ass01Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
